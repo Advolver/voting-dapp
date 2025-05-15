@@ -1,5 +1,5 @@
 {
-  "url": "https://thebatclaudio.github.io/ton-dapp-vue-template",
+  "url": "http://localhost:5173",
   "name": "TON Voting DApp",
   "iconUrl": "https://thebatclaudio.github.io/ton-dapp-vue-template/icon.png"
 }
